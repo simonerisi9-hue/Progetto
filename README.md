@@ -80,6 +80,7 @@ Applicando una coppia di carico pari a $0.08\text{ Nm}$ sotto forma di disturbo 
 * Simulink
 * Control System Toolbox
 
-.
-3. Eseguire lo script dei parametri (es. `parameters.m`) per caricare le costanti nel workspace.
-4. Aprire e avviare il file Simulink `motor_control_cascade.slx`.
+## 🚀 Come Eseguire la Simulazione
+1. Clonare il repository: `git clone https://github.com`
+2. Aprire MATLAB e posizionarsi nella cartella del progetto.
+3. Eseguire il run del live script 
